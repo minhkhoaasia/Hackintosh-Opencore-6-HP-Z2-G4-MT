@@ -7,6 +7,7 @@ iMac (Retina 5K, 27-inch, 2019)
 i5-9400 with UHD 630
 4K monitor
 Ethernet I219LM7 - work
+
 Wifi BCM94360CS2 realmac 
 iMess/Facetime work
 Sleep/Wake work
