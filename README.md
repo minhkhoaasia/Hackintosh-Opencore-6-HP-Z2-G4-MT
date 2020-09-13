@@ -8,6 +8,8 @@ iMac (Retina 5K, 27-inch, 2019)
 
 i5-9400 with UHD 630
 
+SSD Sata M2 WD 240GB (if you install on NVME, please import NVMeFix.kext and edit config.plist)
+
 4K monitor
 
 Ethernet I219LM7 - work
